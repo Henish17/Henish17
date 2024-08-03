@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henish</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-
+<div class="gif" align="center"> <img src="https://cdn.discordapp.com/attachments/1269322881339363452/1269322927724302437/standard.gif?ex=66afa498&is=66ae5318&hm=ff3da080dcd76c49545d3afe9cb87c84b03c4ab725211f6244be136dc6c89ebd&"> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henish17&label=Profile%20views&color=0e75b6&style=flat" alt="henish17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henish17" alt="henish17" /></a> </p>
